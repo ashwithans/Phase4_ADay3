@@ -1,0 +1,14 @@
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\bin\Debug\net6.0\Day3Assignment.exe
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\bin\Debug\net6.0\Day3Assignment.deps.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\bin\Debug\net6.0\Day3Assignment.runtimeconfig.json
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\bin\Debug\net6.0\Day3Assignment.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\bin\Debug\net6.0\Day3Assignment.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfoInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.AssemblyInfo.cs
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.csproj.CoreCompileInputs.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\refint\Day3Assignment.dll
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.pdb
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\Day3Assignment.genruntimeconfig.cache
+D:\MPHASIS\ASSIGNMENT\PHASE4\DAY3\Day3Assignment\Day3Assignment\obj\Debug\net6.0\ref\Day3Assignment.dll
